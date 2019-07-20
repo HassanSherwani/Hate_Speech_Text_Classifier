@@ -12,6 +12,10 @@ overall collection of tweets was split in the ratio of 65:35 into training and t
 
 # Content
 
+- 1.Basic Feature extraction
+- 2.Basic Text Preprocessing
+- 3.Advanced text preprocessing 
+
 # Modules
 
-genism, nltk, sklearn, pandas, numpy, matplotlib, wordcloud
+genism, nltk, sklearn, pandas, numpy, matplotlib, wordcloud, tensorflow, keras, spacy
